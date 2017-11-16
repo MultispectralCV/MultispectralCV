@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agency</title>
+    <link>https://multispectralcv.github.io/</link>
+    <description>Recent content on Agency</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://multispectralcv.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>KAIST Multispectral Recognition Dataset in Day and Night</title>
+      <link>https://multispectralcv.github.io/2018titskaist-benchmark/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://multispectralcv.github.io/2018titskaist-benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multispectral Transfer Network: Unsupervised Depth Estimation for All-day Vision</title>
+      <link>https://multispectralcv.github.io/2018aaaimtn/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://multispectralcv.github.io/2018aaaimtn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermal Image Enhancement using Convolution Neural Network</title>
+      <link>https://multispectralcv.github.io/2016irosten/</link>
+      <pubDate>Wed, 26 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://multispectralcv.github.io/2016irosten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermal-Infrared based Drivable Region Detection</title>
+      <link>https://multispectralcv.github.io/2016ivdrivable-region/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://multispectralcv.github.io/2016ivdrivable-region/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometrical Calibration of Multispectral Calibration</title>
+      <link>https://multispectralcv.github.io/2015uraicalibration/</link>
+      <pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://multispectralcv.github.io/2015uraicalibration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Cost Synchronization for Multispectral Cameras</title>
+      <link>https://multispectralcv.github.io/2015uraisynchronization/</link>
+      <pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://multispectralcv.github.io/2015uraisynchronization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All-Day Visual Place Recognition: Benchmark Dataset and Baselines</title>
+      <link>https://multispectralcv.github.io/2015cvprwall-day-place-recognition/</link>
+      <pubDate>Sun, 07 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://multispectralcv.github.io/2015cvprwall-day-place-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multispectral Pedestrian Detection: Benchmark Dataset and Baselines</title>
+      <link>https://multispectralcv.github.io/2015cvprmultispectral-pedestrian-detection/</link>
+      <pubDate>Sun, 07 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://multispectralcv.github.io/2015cvprmultispectral-pedestrian-detection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
